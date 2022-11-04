@@ -1,0 +1,22 @@
+.showRes {
+  width: 200px;
+  height: 200px;
+  border: 20px solid coral;
+  /* border-top: 20px solid coral; */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.showWinner {
+  color: navy;
+  font-weight: bold;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.winner {
+  color: firebrick;
+}
